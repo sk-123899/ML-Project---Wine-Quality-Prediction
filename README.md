@@ -25,18 +25,19 @@ Predicting wine Quality and Differentiate into good and bad Quality wine.
 
 # Algorithms Implemented
 
-#SVM
+# SVM
 SVM is a supervised machine learning algorithm that is commonly used for classification and regression challenges. In the SVM algorithm, each point is represented as a data item within the n-dimensional space where the value of each feature is the value of a specific coordinate. After plotting, classification has been performed by finding hyper-plane, which differentiates two classes.
 Accuracy achieved :- 87%
 
-#Random Forest  
+# Random Forest  
 Random Forest is a popular machine learning algorithm that belongs to the supervised learning technique. It can be used for both Classification and Regression problems in ML. Random forests creates decision trees on randomly selected data samples, gets prediction from each tree and selects the best solution by means of voting. It also provides a pretty good indicator of the feature importance.
 Accuracy achieved :- 90%
 
-#Decision Tree  
+# Decision Tree  
 A decision tree is a map of the possible outcomes of a series of related choices. It allows an individual or organization to weigh possible actions against one another based on their costs, probabilities, and benefits. 
 Accuracy achieved :- 88.5%
 
+# Accuracy Comparision of above 3 algorithms
 
 ![image](https://user-images.githubusercontent.com/56154956/118629045-d513b180-b7ea-11eb-9e51-ce32803f90cc.png)
 
